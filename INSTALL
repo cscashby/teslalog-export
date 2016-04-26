@@ -1,0 +1,5 @@
+# Install prerequisites
+npm install dotenv
+
+# Edit sample dotenv.sample file and rename to .env in the same folder as getdata.js
+

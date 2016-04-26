@@ -1,0 +1,5 @@
+# Rename me to .env before running
+HOSTNAME=teslalog.com
+URI=/api-logs.php?req=list&date=2016-04-25&car_id=XXX&offset=-60
+COOKIESTRING=_tlkk=STRING; PHPSESSID=STRING
+
